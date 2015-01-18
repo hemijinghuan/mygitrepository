@@ -1,0 +1,29 @@
+[33mcommit a31d35730f7abb1106dc3d0b181d4955613f950a[m
+Author: hehuan <hehuan_business@126.com>
+Date:   Sun Jan 18 14:29:01 2015 +0800
+
+    delete test.txt
+
+[33mcommit baaa4dec9ad39f76b84d5b6dcd2138ed4484b451[m
+Author: hehuan <hehuan_business@126.com>
+Date:   Sun Jan 18 14:28:12 2015 +0800
+
+    create a test.txt
+
+[33mcommit fe55285781045f55a91bfc8b8000ff651a48c423[m
+Author: hehuan <hehuan_business@126.com>
+Date:   Sun Jan 18 13:24:59 2015 +0800
+
+    git test last
+
+[33mcommit 09f3216510ed93c1e95cf78a09273aa9a953049b[m
+Author: hehuan <hehuan_business@126.com>
+Date:   Sun Jan 18 13:21:25 2015 +0800
+
+    test version back
+
+[33mcommit 6762dc69bd6758e39ec5088aabe2ea3ac9b6ebbb[m
+Author: hehuan <hehuan_business@126.com>
+Date:   Sun Jan 18 12:57:19 2015 +0800
+
+    commit a test git file
